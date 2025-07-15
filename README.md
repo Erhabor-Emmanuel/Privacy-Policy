@@ -1,1 +1,1 @@
-# Crypto-Tools-Privacy-Policy
+# Privacy-Policy
