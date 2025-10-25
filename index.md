@@ -6,8 +6,7 @@ title: Privacy Policy
 
 ## Privacy Policy
 
-**Effective Date:** \July 15, 2025
-**App Name:** \Crypto Tools
+**Effective Date:** \October 25, 2025
 **Developer Contact:** \txinnovates@gmail.com
 
 Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
